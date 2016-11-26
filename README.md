@@ -1,1 +1,1 @@
-# HackerRank
+# Attempted Solutions to HackerRank Problems

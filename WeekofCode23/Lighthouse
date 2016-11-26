@@ -1,1 +1,2 @@
-
+The first line contains an integer,n, denoting the side dimensions of the grid where Jessie wants to build the lighthouse. 
+Each line i of the n subsequent lines contains a string of n characters describing the landscape features of row i in the grid. A '.' indicates that  is empty, and a '*' indicates that it's obstructed.
